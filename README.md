@@ -1,4 +1,4 @@
-<h2 align="left">Hi...  I'm Shashank, a passionate Software Engineer from India</h2>
+<h2 align="left">Hi....  I'm Shashank, a passionate Software Engineer from India</h2>
 
 
 <h3>📊 GitHub Stats: </h3>
